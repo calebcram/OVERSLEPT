@@ -62,6 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DoorGrabbable.cs" />
+    <Compile Include="Assets\FollowPhysics.cs" />
     <Compile Include="Assets\Mezanix\RealisticWoodTextures\0_Demo_Scene\Scripts\SimpleRotate.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
@@ -388,31 +390,31 @@
     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\ToyCubeWithOutline.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\CrosshairZCheat.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/calebcram/Documents/GitHub/ezy-slice/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/calebcram/Documents/GitHub/OVERSLEPT/VR Setup Zip/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

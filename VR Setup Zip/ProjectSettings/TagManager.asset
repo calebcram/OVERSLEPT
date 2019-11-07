@@ -15,9 +15,9 @@ TagManager:
   - 
   - Player
   - Grabbable
-  - 
-  - 
-  - 
+  - Hands
+  - GrabbableHandler_Door
+  - Handler_Door
   - 
   - 
   - 

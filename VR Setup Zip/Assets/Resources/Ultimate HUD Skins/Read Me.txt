@@ -1,0 +1,17 @@
+Ultimate HUD Skins - v1.0b
+
+Do you have any questions or requests?
+Contact me via e-mail: isa.steam@outlook.com
+
+YouTube channel (tutorials, changes, etc.):
+https://www.youtube.com/c/Michsky
+
+Want to support?
+https://www.patreon.com/michsky
+
+3rd party assets that I used (all of them are free, show some love to them):
+https://assetstore.unity.com/packages/tools/gui/radial-menu-framework-50601
+
+Change Log
+----------------------------------------
+First release

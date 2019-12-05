@@ -47,6 +47,11 @@ public class OVRGrabber : MonoBehaviour
     [SerializeField]
     protected OVRInput.Controller m_controller;
 
+    public OVRInput.Controller GetController()
+    {
+        return m_controller;
+    }
+
     [SerializeField]
     protected Transform m_parentTransform;
 
